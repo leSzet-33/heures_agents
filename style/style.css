@@ -1,0 +1,199 @@
+.container{
+	background-color: #f0f4fa;
+	padding-top: 2%;
+	padding-bottom: 3%;
+	border-radius: 1%;
+}
+
+.nav-margin
+{
+	margin-bottom: 1%;
+}
+
+.form-planning {
+	position: relative;
+	background: #70a8ff;
+	max-width: 642px;
+	width: 100%;
+	margin: auto;
+	padding: 45px 25px 25px;
+	border-radius: 4px;
+	-webkit-box-shadow: 0px 0px 10px -5px rgba(0, 0, 0, 0.4);
+	box-shadow: 0px 0px 10px -5px rgba(0, 0, 0, 0.4);
+}
+ 
+.label-title{
+	text-align: center;
+}
+
+.back-form{
+	background-color: #0a87f5;
+	margin-top: 5%;
+	border-radius: 2%;
+	box-shadow: -1px 2px 5px 1px grey;
+	padding: 2%;
+}
+.btn-secondary{
+	font-size: 45%;
+	margin:2px;
+}
+.btn-warning{
+	font-size: 45%;
+	margin:2px;
+}
+#submit-search-planning{
+	margin-top: 5%;
+}
+.buttons-check-heures{
+	display: inline-flex left;
+}
+
+.button-valider-heures{
+	height: 40px;
+	width: 40px;
+	background: url('../img/valider.png');
+	background-size: 100%;
+	border-radius: 50%;
+	align-content: center;
+}
+
+.button-modifier-heures{
+	height: 40px;
+	width: 40px;
+	background: url('../img/modifier.png');
+	background-size: 100%;
+	border-radius: 50%;
+}
+
+.button-refuser-heures{
+	height: 40px;
+	width: 40px;
+	background: url('../img/refuser.png');
+	background-size: 100%;
+	border-radius: 50%;
+}
+th{
+	text-align: center;
+}
+
+.th-left{
+	text-align: left;
+	color: white;
+}
+
+#back-th{
+	color: #ffb300;
+}
+.thead-title-check{
+	text-align: center;
+}
+
+.search-agent{
+	margin-top: 5%;
+	box-shadow: -1px 2px 10px 1px grey;
+	border-radius: 5%;
+}
+
+
+.input-check-heures{
+	text-align: center;
+
+}
+.input-time{
+	width: 60%;
+}
+.table-check-heures{
+	width:51%;
+}
+
+.form-check-heures{
+	width: 100%;
+}
+
+.tabInfos{
+	text-align: center;
+}
+
+.leftTitle{
+	text-align: right;
+}
+
+.tabAlignLeft{
+	text-align: left;
+}
+
+.alert-warning{
+
+width: 50%;
+
+}
+
+#agentManage{
+	text-decoration: none;
+}
+
+#typeH{
+	padding-bottom: 10px;
+}
+
+#checkDay{
+	padding-left: 10%;
+}
+
+#formHoraires{
+	margin-top: 4%;
+}
+
+.form-user{
+
+	margin-top: 0%;
+	background-color: #00bef2;
+	border-radius: 2%;
+	padding: 2%;
+}
+
+.input-form-user{
+	margin-bottom: 3%;
+}
+.invalid-input{
+	font-size: 12px;
+	color: #db1212;
+	font-weight: normal;
+}
+#selectPeriode{
+	height: 50%;
+}
+
+#formHoraires{
+	margin-bottom: -5%;
+}
+
+#alert-add-horaires{
+	margin-bottom: 2px;
+}
+
+.compte-user-infos{
+	font-size: 85%;
+
+}
+
+.edit-planning-table{
+	font-size: 75%;
+}
+
+.edit-planning-input{
+	height:75%; 
+	width:75%;
+	font-size:75%;
+	padding-left: 0%;
+	padding-right: 0%; 
+}
+
+.border-field{
+	border: 10px;
+}
+.fc-scroller {
+   overflow-y: hidden !important;
+}
+
+
